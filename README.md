@@ -12,7 +12,7 @@ Se quiser testar localmente siga estes passos:
 
 1. Clone o repositório
 ```bash
-git clone git@github.com:plinionaves/ionic2-firebase-chat.git
+git clone https://github.com/satouyama/chat-app.git
 ```
 
 2. Acesse o diretório criado para o projeto
