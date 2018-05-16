@@ -1,0 +1,29 @@
+
+
+
+<ion-content padding>
+
+ 
+
+  <form [formGroup]="signinForm" (ngSubmit)="onSubmit(); $event.preventDefault()">
+
+     <div id="box">
+      <ion-label>E-mail</ion-label>
+      <ion-input type="email" placeholder="Email" formControlName="email"></ion-input>
+    
+
+    
+      <ion-label>Senha</ion-label>
+      <ion-input type="password" placeholder="Password" formControlName="password"></ion-input>
+    </div>
+
+    <br>
+     <div class="center">
+    <button ion-button  color="light" type="submit" outline="true" [disabled]="signinForm.invalid">Entrar</button>
+    <button ion-button  color="light" textx-center outline="true" (click)="onSignup()">Cadastrar</button>
+    </div>
+  </form>
+
+  
+
+</ion-content>
