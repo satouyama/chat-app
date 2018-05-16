@@ -28,11 +28,12 @@ import { UserProfilePage } from './../pages/user-profile/user-profile';
 import { UserService } from './../providers/user.service';
 
 const firebaseAppConfig: FirebaseAppConfig = {
-    apiKey: "AIzaSyBnxQzT9pnsrYgIGY6t2NpNqwDEeXAERBQ",
-    authDomain: "ionic2-firebase-chat-24024.firebaseapp.com",
-    databaseURL: "https://ionic2-firebase-chat-24024.firebaseio.com",
-    storageBucket: "ionic2-firebase-chat-24024.appspot.com",
-    messagingSenderId: "537415984013"
+  apiKey: "AIzaSyBw_cdfZqdMGqsi4D8fyl2u9czGw_E9bac",
+  authDomain: "chat-e9788.firebaseapp.com",
+  databaseURL: "https://chat-e9788.firebaseio.com",
+  projectId: "chat-e9788",
+  storageBucket: "chat-e9788.appspot.com",
+  messagingSenderId: "648182417051"
 };
 
 @NgModule({
