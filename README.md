@@ -4,12 +4,7 @@ Repositório do projeto final do curso [Ionic 2 - Apps Híbridos, PWA e Firebase
 
 O app é um Chat Realtime criado com Ionic 2 e Firebase, usando Authentication, Realtime Database, Storage e Firebase Hosting para deploy.
 
-## Gostaria de testar?
 
-O projeto está disponível como uma Web App, acesse os links para testar:
-
-1. [Firebase Hosting](https://ionic2-firebase-chat-24024.firebaseapp.com/)
-2. [Github Pages](https://plinionaves.github.io/ionic2-firebase-chat/)
 
 ## Teste localmente
 
