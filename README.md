@@ -1,6 +1,6 @@
 # Ionic 2 Firebase Chat
 
-Repositório do projeto final do curso [Ionic 2 - Apps Híbridos, PWA e Firebase](https://www.udemy.com/ionic-2-apps-hibridos-pwa-firebase/?couponCode=IONIC2GITHUB) publicado na Udemy.com
+
 
 O app é um Chat Realtime criado com Ionic 2 e Firebase, usando Authentication, Realtime Database, Storage e Firebase Hosting para deploy.
 
