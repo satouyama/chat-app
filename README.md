@@ -35,6 +35,3 @@ npm install
 ionic serve
 ```
 
-
-
-Participe do nosso grupo no Facebook: [DynamicBox Developers](https://www.facebook.com/groups/200267383740594)
