@@ -35,14 +35,6 @@ npm install
 ionic serve
 ```
 
-## Contato
 
-Desenvolvido por: [Plínio Naves](https://www.udemy.com/user/plinio-naves/)
-
-Email: [pliniopjn@hotmail.com](mailto:pliniopjn@hotmail.com)
-
-Twitter: [@plinionaves](https://twitter.com/plinionaves)
-
-Github: [github.com/plinionaves](https://github.com/plinionaves)
 
 Participe do nosso grupo no Facebook: [DynamicBox Developers](https://www.facebook.com/groups/200267383740594)
